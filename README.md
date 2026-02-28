@@ -3,7 +3,11 @@
 A real-time public speaking coaching web app MVP.
 
 
-https://github.com/user-attachments/assets/634a8ee7-fa6f-459e-a887-d7102cf0058f
+
+<p align="center" width="100%">
+<video src="https://github.com/user-attachments/assets/634a8ee7-fa6f-459e-a887-d7102cf0058f" width="80%" controls></video>
+</p>
+
 
 
 ## Stack
